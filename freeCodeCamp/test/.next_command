@@ -85,3 +85,6 @@ ls --color=auto
 cd node_modules
 ls --color=auto
 ls --color=auto -l
+git push origin main
+git status
+git commit -a -m "feat: saving progress"
