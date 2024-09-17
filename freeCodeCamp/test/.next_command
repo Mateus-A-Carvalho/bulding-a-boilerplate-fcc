@@ -68,3 +68,4 @@ echo hello terminal
 git push origin main
 pwd
 ls --color=auto
+cd freeCodeCamp
