@@ -88,3 +88,6 @@ ls --color=auto -l
 git push origin main
 git status
 git commit -a -m "feat: saving progress"
+git push origin main
+ls --color=auto
+cd has
