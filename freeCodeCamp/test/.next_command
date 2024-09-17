@@ -78,3 +78,5 @@ ls --color=auto
 cd ..
 pwd
 ls --color=auto
+more test
+more package.json
